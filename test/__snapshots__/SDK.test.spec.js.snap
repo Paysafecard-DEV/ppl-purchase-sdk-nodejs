@@ -1,0 +1,181 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SDK integration test Legal Document api tests it can request terms and conditions for a purchase 1`] = `
+"<html xmlns=\\"http://www.w3.org/1999/xhtml\\">
+<head>
+
+<meta http-equiv=\\"Content-Type\\" content=\\"text/html; charset=utf-8\\" />
+<meta name=\\"robots\\" content=\\"noindex, nofollow\\">
+<link href=\\"https://fonts.googleapis.com/css?family=Source+Sans+Pro\\" rel=\\"stylesheet\\">
+
+<title>Zusätzliche AGB für Demo company</title>
+<style type=\\"text/css\\">
+
+.top-links {
+	padding: 20px 0px 20px 0px;
+	margin: 0px 20px 0px 20px;
+}
+
+.top-links a {
+	text-decoration: underline;
+}
+
+header {
+	margin: 0px 0px 20px 20px;
+}
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+li {
+	margin: 0px 20px 0px 20px;
+	text-align: justify;
+}
+
+ol {
+	margin-bottom: 30px;
+}
+
+ol ul {
+	margin-bottom: 10px;
+}
+
+footer {
+	margin: 10px 0px 30px 30px;
+}
+
+.right {
+	float:right;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 4px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class=\\"top-links\\">
+	<a href=\\"#\\" onClick=\\"window.close();\\">Fenster schliessen</a>
+	<a href=\\"#\\" onClick=\\"window.print();\\" class=\\"right\\">Drucken</a>
+</div>
+<header>
+	<strong>Zusätzliche Allgemeine Geschäftsbedingungen (AGB) für Kauf auf Rechnung von Demo company (im Folgenden: „wir“)</strong></br>
+	<span><i>(Stand: 11.04.2019)</i></span>
+</header>
+<ol>
+  <strong><p>Allgemeines</p></strong>
+  
+  <li><p>Wir bieten die Zahlungsart „Kauf auf Rechnung” (Rechnungskauf) für unsere Kunden an. Dabei erfolgt eine Forderungsabtretung an die net-m privatbank 1891 AG (im Folgenden „Bank“).</p></li>
+  <li><p>Der Rechnungskauf stehen nur Verbrauchern ab 18 Jahren zur Verfügung. Sie können mit diesem Service Waren über das Internet erwerben und müssen sie erst nach tatsächlichem Erhalt der Ware und der Rechnung bezahlen.</p></li>
+  <li><p>Der Kaufvertrag über die Ware kommt ausschließlich zwischen Ihnen und uns zustande. Auch die Abwicklung des Kaufvertrags bestimmt sich nach den Vereinbarungen, die Sie mit uns treffen. Insbesondere bleiben wir zuständig für allgemeine Kundenanfragen (z.B. zu Ware, Lieferzeit, Versendung), Retouren, Reklamationen, Gewährleistungsansprüchen, allfällige Vertragsrücktritte sowie Gutschriften. Wenn Sie sich für Kauf auf Rechnung entscheiden, gelten diese Geschäftsbedingungen zusätzlich zu jenen Vereinbarungen und den AGB die Sie mit uns im Rahmen des Kaufvertrages vereinbaren.</p></li>
+  <li><p>Wir werden zur Abwicklung eines Kaufs auf Rechnung unseren Anspruch auf Zahlung des Kaufpreises gegen Sie an die Bank abtreten. Sie werden über diese Forderungsabtretung hiermit informiert. Sämtliche Zahlungen haben, um schuldbefreiend zu wirken, ausschließlich an die Bank auf das zu diesem Zweck Ihnen bekanntgegebene Konto zu erfolgen. Die Waren bleiben bis zur vollständigen Bezahlung Eigentum der Bank.</p></li>
+  <li><p>Als technische Dienstleisterin und Dienstleisterin zur Überprüfung Ihrer Kreditwürdigkeit bei einem Kauf auf Rechnung fungiert für uns die payolution GmbH (https://www.paysafe.com/de/pay-later/).</p></li>
+  
+  <strong><p>Zahlungsmodalitäten</p></strong>
+  
+  <li><p>Sofern Sie auf Grund Ihrer besonderen Vereinbarung mit uns oder aufgrund gesetzlicher Bestimmungen von dem Kaufvertrag zurücktreten, die Ware retournieren, Preisminderung geltend machen oder sonstige Gründe haben, Ihre Zahlung ganz oder teilweise nicht leisten zu müssen, wird die Bank in diesem Fall die Forderung gegen Sie wieder an uns zurück übertragen. Mit uns ist sodann eine endgültige Vereinbarung über die Zahlung zu treffen, oder die Rückabwicklung vorzunehmen.</p></li>
+
+  <strong><p>Warnung: Folgen ausbleibender Zahlungen</p></strong>
+  
+  <li><p>Es fallen für verspätete Zahlungen sowohl bei Rechnungskauf Verzugszinsen in vereinbarter Höhe sowie Kosten für zweckentsprechende Mahnungen an. Bei nicht erfolgreichem internem Mahnwesen, kann die Bank die offene Forderung zur Betreibung an ein Inkassobüro übergeben. In diesem Fall können Ihnen Kosten für Rechtsverfolgung durch Inkassobüros und allenfalls für anwaltliche Vertretung entstehen.</p></li>
+  <li><p>Sollte eine Bestimmung dieser zusätzlichen AGB unwirksam sein, so berührt dies die Wirksamkeit der sonstigen Bestimmungen dieser AGB nicht.</p></li>
+</ol>
+</body>
+</html>"
+`;
+
+exports[`SDK integration test Legal Document api tests it can request terms and conditions for a purchase with authorization 1`] = `
+"<html xmlns=\\"http://www.w3.org/1999/xhtml\\">
+<head>
+
+<meta http-equiv=\\"Content-Type\\" content=\\"text/html; charset=utf-8\\" />
+<meta name=\\"robots\\" content=\\"noindex, nofollow\\">
+<link href=\\"https://fonts.googleapis.com/css?family=Source+Sans+Pro\\" rel=\\"stylesheet\\">
+
+<title>Zusätzliche AGB für Demo company</title>
+<style type=\\"text/css\\">
+
+.top-links {
+	padding: 20px 0px 20px 0px;
+	margin: 0px 20px 0px 20px;
+}
+
+.top-links a {
+	text-decoration: underline;
+}
+
+header {
+	margin: 0px 0px 20px 20px;
+}
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+li {
+	margin: 0px 20px 0px 20px;
+	text-align: justify;
+}
+
+ol {
+	margin-bottom: 30px;
+}
+
+ol ul {
+	margin-bottom: 10px;
+}
+
+footer {
+	margin: 10px 0px 30px 30px;
+}
+
+.right {
+	float:right;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 4px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class=\\"top-links\\">
+	<a href=\\"#\\" onClick=\\"window.close();\\">Fenster schliessen</a>
+	<a href=\\"#\\" onClick=\\"window.print();\\" class=\\"right\\">Drucken</a>
+</div>
+<header>
+	<strong>Zusätzliche Allgemeine Geschäftsbedingungen (AGB) für Kauf auf Rechnung von Demo company (im Folgenden: „wir“)</strong></br>
+	<span><i>(Stand: 11.04.2019)</i></span>
+</header>
+<ol>
+  <strong><p>Allgemeines</p></strong>
+  
+  <li><p>Wir bieten die Zahlungsart „Kauf auf Rechnung” (Rechnungskauf) für unsere Kunden an. Dabei erfolgt eine Forderungsabtretung an die net-m privatbank 1891 AG (im Folgenden „Bank“).</p></li>
+  <li><p>Der Rechnungskauf stehen nur Verbrauchern ab 18 Jahren zur Verfügung. Sie können mit diesem Service Waren über das Internet erwerben und müssen sie erst nach tatsächlichem Erhalt der Ware und der Rechnung bezahlen.</p></li>
+  <li><p>Der Kaufvertrag über die Ware kommt ausschließlich zwischen Ihnen und uns zustande. Auch die Abwicklung des Kaufvertrags bestimmt sich nach den Vereinbarungen, die Sie mit uns treffen. Insbesondere bleiben wir zuständig für allgemeine Kundenanfragen (z.B. zu Ware, Lieferzeit, Versendung), Retouren, Reklamationen, Gewährleistungsansprüchen, allfällige Vertragsrücktritte sowie Gutschriften. Wenn Sie sich für Kauf auf Rechnung entscheiden, gelten diese Geschäftsbedingungen zusätzlich zu jenen Vereinbarungen und den AGB die Sie mit uns im Rahmen des Kaufvertrages vereinbaren.</p></li>
+  <li><p>Wir werden zur Abwicklung eines Kaufs auf Rechnung unseren Anspruch auf Zahlung des Kaufpreises gegen Sie an die Bank abtreten. Sie werden über diese Forderungsabtretung hiermit informiert. Sämtliche Zahlungen haben, um schuldbefreiend zu wirken, ausschließlich an die Bank auf das zu diesem Zweck Ihnen bekanntgegebene Konto zu erfolgen. Die Waren bleiben bis zur vollständigen Bezahlung Eigentum der Bank.</p></li>
+  <li><p>Als technische Dienstleisterin und Dienstleisterin zur Überprüfung Ihrer Kreditwürdigkeit bei einem Kauf auf Rechnung fungiert für uns die payolution GmbH (https://www.paysafe.com/de/pay-later/).</p></li>
+  
+  <strong><p>Zahlungsmodalitäten</p></strong>
+  
+  <li><p>Sofern Sie auf Grund Ihrer besonderen Vereinbarung mit uns oder aufgrund gesetzlicher Bestimmungen von dem Kaufvertrag zurücktreten, die Ware retournieren, Preisminderung geltend machen oder sonstige Gründe haben, Ihre Zahlung ganz oder teilweise nicht leisten zu müssen, wird die Bank in diesem Fall die Forderung gegen Sie wieder an uns zurück übertragen. Mit uns ist sodann eine endgültige Vereinbarung über die Zahlung zu treffen, oder die Rückabwicklung vorzunehmen.</p></li>
+
+  <strong><p>Warnung: Folgen ausbleibender Zahlungen</p></strong>
+  
+  <li><p>Es fallen für verspätete Zahlungen sowohl bei Rechnungskauf Verzugszinsen in vereinbarter Höhe sowie Kosten für zweckentsprechende Mahnungen an. Bei nicht erfolgreichem internem Mahnwesen, kann die Bank die offene Forderung zur Betreibung an ein Inkassobüro übergeben. In diesem Fall können Ihnen Kosten für Rechtsverfolgung durch Inkassobüros und allenfalls für anwaltliche Vertretung entstehen.</p></li>
+  <li><p>Sollte eine Bestimmung dieser zusätzlichen AGB unwirksam sein, so berührt dies die Wirksamkeit der sonstigen Bestimmungen dieser AGB nicht.</p></li>
+</ol>
+</body>
+</html>"
+`;

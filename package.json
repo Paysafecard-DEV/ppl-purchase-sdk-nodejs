@@ -1,0 +1,23 @@
+{
+  "name": "paysafe-paylater-sdk-nodejs",
+  "version": "0.1.0",
+  "description": "PaySafe Pay Later SDK",
+  "main": "src/paysafe-paylater/index.js",
+  "scripts": {
+    "test": "jest test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Paysafecard-DEV/ppl-purchase-sdk"
+  },
+  "author": "Paysafe Pay Later",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "jest": "^26.1.0",
+    "moxios": "^0.4.0"
+  }
+}
